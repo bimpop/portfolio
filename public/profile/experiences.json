@@ -1,0 +1,59 @@
+{
+    "experiences": [
+        {
+            "title": "XR Developer",
+            "subtitle": "Imisi 3D",
+            "workType": "Internship",
+            "workDescription": [
+                "Build XR solutions.",
+                "Design graphics.",
+                "Assist with inventory and event planning."
+            ],
+            "dateText": "May 2022 – Present"
+        },
+        {
+            "title": "Backend Developer & Cloud Engineer",
+            "subtitle": "NESTT Financial Services",
+            "workType": "Freelance",
+            "workDescription": [
+                "Create robust RESTful APIs and consume external ones.",
+                "Write documentation using Postman.",
+                "Design cloud architecture on AWS."
+            ],
+            "dateText": "Apr 2020 – Present"
+        },
+        {
+            "title": "Mechanical Design Engineer",
+            "subtitle": "MacLevi Projects Limited",
+            "workType": "Internship (NYSC)",
+            "workDescription": [
+                "Designed 3D drawings of Plants facilities and equipment with AutoCAD Plant 3D.",
+                "Generated P&ID, Layouts and Systems drawings of Plants setup.",
+                "Analysed projects' cost estimates."
+            ],
+            "dateText": "Aug 2021 – Apr 2022"
+        },
+        {
+            "title": "Associate Cloud Engineer",
+            "subtitle": "Layer3 Limited",
+            "workType": "Internship",
+            "workDescription": [
+                "Interacted with Product Management and Product Engineering to become a technical expert on selected VMware technologies.",
+                "Developed a workflow automation system with ProcessMaker.",
+                "Participated in server maintenance activity at Data Center."
+            ],
+            "dateText": "Jun 2021 – Jul 2021"
+        },
+        {
+            "title": "Project Controls Intern",
+            "subtitle": "Chevron Nigeria Limited",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed schedules for nine small capital projects.",
+                "Collaborated with various project units to gather project data.",
+                "Collaborated with a team to analyse cost estimates for five major capital projects."
+            ],
+            "dateText": "Sep 2018 – Jan 2019"
+        }
+    ]
+}

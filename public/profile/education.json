@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Mar 2015 - Feb 2021",
+            "cardTitle": "B.Sc. Mechanical Engineering",
+            "cardSubtitle":"University of Ibadan, Ibadan",
+            "cardDetailedText": "Published Project: Design and Simulation of Air-Conditioning System in a Large Auditorium Based on Computational Fluid Dynamics",
+            "icon" : {
+                "src": "images/education/uilogo.png"
+            }
+        }
+    ]
+}
