@@ -1,4 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
+import { Button } from 'react-bootstrap';
+import { ThemeContext } from 'styled-components';
 import Typewriter from 'typewriter-effect';
 import Fade from 'react-reveal';
 import endpoints from '../constants/endpoints';
@@ -18,11 +20,18 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: '100px',
+    marginTop: '70px',
+  },
+  iconStyle: {
+    marginLeft: 10,
+    marginRight: 10,
+    marginBottom: 10,
+    marginTop: '60px',
   },
 };
 
 function Home() {
+  const theme = useContext(ThemeContext);
   const [data, setData] = useState(null);
 
   useEffect(() => {
@@ -49,6 +58,16 @@ function Home() {
           />
         </div>
         <Social />
+        <Button
+          key={data.resume}
+          style={styles.iconStyle}
+          variant={theme.bsSecondaryVariant}
+          onClick={() => window.open(data.resume, '_blank')}
+        >
+          <img alt="download logo" src="images/download.png" width="28px" />
+          &nbsp;
+          Resume
+        </Button>
       </div>
     </Fade>
   ) : <FallbackSpinner />;
