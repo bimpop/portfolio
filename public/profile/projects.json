@@ -1,149 +1,315 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/home-xr.png",
+            "title": "HomeXR",
+            "bodyText": "- An interactive VR house experience made in Unity.\n - Navigate by teleportation.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "text": "Start Web App",
+                    "href": "https://bimpop.itch.io/home-xr"
                 },
                 {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "text": "GitHub",
+                    "href": "https://github.com/bimpop/HomeXR"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "Unity",
+                "XR Toolkit",
+                "OpenXR"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/run-vr.png",
+            "title": "Run VR",
+            "bodyText": "- A 360 experience designed and animated in blender.\n - A run through the hallway of doom trying to escape an unseen monster.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "text": "View Mono",
+                    "href": "https://www.youtube.com/watch?v=qJiwVzI1ib8"
                 },
                 {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "View Stereo",
+                    "href": "https://www.youtube.com/shorts/F42bea9biuY"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Blender",
+                "360 Animation"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/brain-mr.jpg",
+            "title": "BrainMR",
+            "bodyText": "- A Team Project.\n - A fun and interactive learning Mixed Reality experience.\n - Learning and Quiz sections.",
             "links": [
                 {
+                    "text": "View Demo",
+                    "href": "https://youtu.be/ERc6UoF-q9o"
+                },
+                {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/bimpop/MLSA-BOOTCAMP-TEAM2"
                 }
             ],
             "tags" : [
-                "Java",
+                "Unity",
+                "MRTK"
+            ]
+        },
+        {
+            "image" : "images/projects/vr-room.png",
+            "title": "VR Room",
+            "bodyText": "- An interactive VR room experience made in Unity.\n - Create and transform furniture.\n - Navigate via teleportation or walking.\n - Minimap feature. \n - Guided Project from EdX course.",
+            "links": [
+                {
+                    "text": "Get App",
+                    "href": "https://bimpop.itch.io/vr-room"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/bimpop/VRRoom"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "GoogleVR"
+            ]
+        },
+        {
+            "image" : "images/projects/auditorium.png",
+            "title": "Large Auditorium",
+            "bodyText": "- Design and simulation of air conditioning system in a large auditorium based on computational fluid dynamics.\n - Visualisation in VR.",
+            "links": [
+                {
+                    "text": "Publication",
+                    "href": "https://www.ej-eng.org/index.php/ejeng/article/view/2062"
+                },
+                {
+                    "text": "Get App",
+                    "href": "https://bimpop.itch.io/tlt-vr"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/bimpop/TLT-VR"
+                }
+            ],
+            "tags" : [
+                "Revit",
+                "ANSYS",
+                "Unity",
+                "GoogleVR"
+            ]
+        },
+        {
+            "image" : "images/projects/space-room.png",
+            "title": "Space Room",
+            "bodyText": "- A room in space designed in Autodesk Maya.\n - Revolving planetary bodies.",
+            "links": [
+                {
+                    "text": "Art Station",
+                    "href": "https://www.artstation.com/artwork/DAzvZe"
+                }
+            ],
+            "tags" : [
+                "Maya",
+                "3D Animation"
+            ]
+        },
+        {
+            "image" : "images/projects/android.png",
+            "title": "Android Ad",
+            "bodyText": "- An Android product video made in Blender.",
+            "links": [
+                {
+                    "text": "Art Station",
+                    "href": "https://www.artstation.com/artwork/2qK9Ee"
+                }
+            ],
+            "tags" : [
+                "Blender",
+                "3D Animation",
+                "Product Video"
+            ]
+        },
+        {
+            "image" : "images/projects/v6-engine.png",
+            "title": "V6 Engine",
+            "bodyText": "- V6 Engine assembly designed in Autodesk Fusion 360.\n - Detailed internal components.",
+            "tags" : [
+                "Fusion 360",
+                "3D Animation"
+            ]
+        },
+        {
+            "image" : "images/projects/cervical-collar.png",
+            "title": "Cervical Collar",
+            "bodyText": "- Cervical Collar assembly designed in Autodesk Fusion 360.\n - Detailed components.",
+            "tags" : [
+                "Fusion 360"
+            ]
+        },
+        {
+            "image" : "images/projects/pressure-switch.jpg",
+            "title": "Pressure Switch",
+            "bodyText": "- Pumping Machine Pressure Switch assembly designed in Autodesk Inventor.\n - Detailed internal components.\n - Assembly/Disassembly animation.",
+            "tags" : [
+                "Inventor",
+                "3D Animation"
+            ]
+        },
+        {
+            "image" : "images/projects/class-board.png",
+            "title": "Multipurpose Classroom Board",
+            "bodyText": "- Multipurpose Classroom Board assembly designed in Autodesk Inventor.\n - Detailed internal components.\n - Dynamic Simulation.\n - Finite Element Analysis.",
+            "tags" : [
+                "Inventor",
+                "Simulation",
+                "FEA"
+            ]
+        },
+        {
+            "image" : "images/projects/50t-press.png",
+            "title": "50T Hydraulic Press",
+            "bodyText": "- 50 Ton Hydraulic Press assembly designed in Autodesk AutoCAD.\n - Detailed internal components.",
+            "tags" : [
+                "AutoCAD"
+            ]
+        },
+        {
+            "image" : "images/projects/burger-app.png",
+            "title": "Burger App",
+            "bodyText": "- An Burger ordering web app.\n - Visually build your burger.",
+            "links": [
+                {
+                    "text": "View Site",
+                    "href": "https://burgernow.herokuapp.com"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/bimpop/react-burger-app"
+                }
+            ],
+            "tags" : [
+                "React"
+            ]
+        },
+        {
+            "image" : "images/projects/yelpcamp.png",
+            "title": "Yelpcamp",
+            "bodyText": "- A campground finder website.\n - User authentication.\n - Add and modify camprounds.\n - Add comments.",
+            "links": [
+                {
+                    "text": "View Site",
+                    "href": "https://polar-dusk-91043.herokuapp.com/"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/bimpop/oart"
+                }
+            ],
+            "tags" : [
+                "Bootstrap",
+                "Nodejs",
+                "Express",
+                "Mongoose",
+                "MongoDB",
+                "Heroku"
+            ]
+        },
+        {
+            "image" : "images/projects/oart.png",
+            "title": "O-Art",
+            "bodyText": "- An Art Gallery website for viewing and requesting artworks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/bimpop/oart"
+                }
+            ],
+            "tags" : [
+                "Bootstrap",
+                "Nodejs",
+                "Express",
+                "Mongoose",
+                "MongoDB",
+                "Heroku"
+            ]
+        },
+        {
+            "image" : "images/projects/android_new.png",
+            "title": "Pets",
+            "bodyText": "- A pet store app.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/bimpop/pets"
+                }
+            ],
+            "tags" : [
                 "Android",
-                "Alarm Manager",
-                "VIT"
+                "Java"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/android_new.png",
+            "title": "Soonami",
+            "bodyText": "- An earthquake magnitude info app.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/bimpop/soonami"
                 }
             ],
             "tags" : [
-                "Java",
                 "Android",
-                "Firebase",
-                "RSA"
+                "Java"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "image" : "images/projects/android_new.png",
+            "title": "Miwok",
+            "bodyText": "- A miwok language basics app.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/bimpop/miwok"
                 }
             ],
             "tags" : [
-                "Kotlin",
                 "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "Java"
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "image" : "images/projects/android_new.png",
+            "title": "Music Player",
+            "bodyText": "- A music player app.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "href": "https://github.com/bimpop/musicplayer"
                 }
             ],
             "tags" : [
-                "Kotlin",
                 "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "Java"
             ]
         },
         {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "image" : "images/projects/android_new.png",
+            "title": "CourtCounter",
+            "bodyText": "- A basketball game score keeper app.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/bimpop/courtcounter"
                 }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Android",
+                "Java"
             ]
         }
     ]

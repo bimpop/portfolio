@@ -24,9 +24,9 @@ Visit the portfolio website: **[click here](https://portfolio-bimpop.vercel.app)
 
 ## Why do you need a portfolio? ☝️
 
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- better chance of getting work opportunity
+- Professional way to showcase your work.
+- Increases your visibility and online presence.
+- Better chance of getting work opportunity.
 
 ---
 

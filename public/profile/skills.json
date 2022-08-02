@@ -1,16 +1,16 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "Over the years, I have gained skills and expertise  in various areas of tech.\nHere are some of the development stacks I have worked with:",
     "skills": [{
      
             "title": "3D & Extended Reality",
             "items" : [
                 {
-                    "icon": "images/skills/unity.png",
-                    "title": "Unity 3D"
-                },
-                {
                     "icon": "images/skills/blender.png",
                     "title": "Blender"
+                },
+                {
+                    "icon": "images/skills/unity.png",
+                    "title": "Unity 3D"
                 },
                 {
                     "icon": "images/skills/fusion.png",
@@ -21,8 +21,16 @@
                     "title": "Inventor"
                 },
                 {
+                    "icon": "images/skills/maya.png",
+                    "title": "Maya"
+                },
+                {
                     "icon": "images/skills/revit.png",
                     "title": "Revit"
+                },
+                {
+                    "icon": "images/skills/autocad.png",
+                    "title": "AutoCAD"
                 }
         ]},
         {
@@ -100,6 +108,14 @@
                 {
                     "icon": "images/skills/bitbucket.png",
                     "title": "Bitbucket"
+                },
+                {
+                    "icon": "images/skills/ms-project.png",
+                    "title": "MS Project"
+                },
+                {
+                    "icon": "images/skills/canva.png",
+                    "title": "Canva"
                 },
                 {
                     "icon": "images/skills/docker.png",
