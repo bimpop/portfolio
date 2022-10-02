@@ -1,6 +1,22 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/arthur-rocking.jpg",
+            "title": "Arthur Rocking",
+            "bodyText": "- A 360 animation made in Blender.\n - My project from the course:\n Creating a Finished Character Animation in Blender 2.9\n By David Andrade.",
+            "links": [
+                {
+                    "text": "View",
+                    "href": "https://youtu.be/UQxm4bU3LMw"
+                }
+            ],
+            "tags" : [
+                "Blender",
+                "360 Animation",
+                "XR"
+            ]
+        },
+        {
             "image" : "images/projects/home-xr.png",
             "title": "HomeXR",
             "bodyText": "- An interactive VR house experience made in Unity.\n - Navigate by teleportation.",
@@ -11,14 +27,17 @@
                 }
             ],
             "tags" : [
+                "Sweet Home 3D",
                 "Unity",
-                "XR Toolkit",
+                "WebGL",
+                "WebVR",
+                "Oculus Quest 2",
                 "OpenXR"
             ]
         },
         {
-            "image" : "images/projects/run-vr.png",
-            "title": "Run VR",
+            "image" : "images/projects/run-360.png",
+            "title": "Run 360",
             "bodyText": "- A 360 experience designed and animated in blender.\n - A run through the hallway of doom trying to escape an unseen monster.",
             "links": [
                 {
@@ -32,7 +51,8 @@
             ],
             "tags" : [
                 "Blender",
-                "360 Animation"
+                "360 Animation",
+                "XR"
             ]
         },
         {
@@ -45,13 +65,18 @@
                     "href": "https://youtu.be/ERc6UoF-q9o"
                 },
                 {
+                    "text": "Get App",
+                    "href": "https://bimpop.itch.io/brainmr"
+                },
+                {
                     "text": "GitHub",
                     "href": "https://github.com/bimpop/MLSA-BOOTCAMP-TEAM2"
                 }
             ],
             "tags" : [
                 "Unity",
-                "MRTK"
+                "MRTK",
+                "Hololens 2"
             ]
         },
         {
@@ -70,7 +95,8 @@
             ],
             "tags" : [
                 "Unity",
-                "GoogleVR"
+                "GoogleVR",
+                "GoogleCardboard"
             ]
         },
         {
@@ -83,7 +109,7 @@
                     "href": "https://www.ej-eng.org/index.php/ejeng/article/view/2062"
                 },
                 {
-                    "text": "Get App",
+                    "text": "View/Get App",
                     "href": "https://bimpop.itch.io/tlt-vr"
                 },
                 {
@@ -95,7 +121,9 @@
                 "Revit",
                 "ANSYS",
                 "Unity",
-                "GoogleVR"
+                "WebGL",
+                "GoogleVR",
+                "GoogleCardboard"
             ]
         },
         {
@@ -134,8 +162,8 @@
             "title": "V6 Engine",
             "bodyText": "- V6 Engine assembly designed in Autodesk Fusion 360.\n - Detailed internal components.",
             "tags" : [
-                "Fusion 360",
-                "3D Animation"
+                "3D Design",
+                "Fusion 360"
             ]
         },
         {
@@ -143,6 +171,7 @@
             "title": "Cervical Collar",
             "bodyText": "- Cervical Collar assembly designed in Autodesk Fusion 360.\n - Detailed components.",
             "tags" : [
+                "3D Design",
                 "Fusion 360"
             ]
         },
@@ -151,6 +180,7 @@
             "title": "Pressure Switch",
             "bodyText": "- Pumping Machine Pressure Switch assembly designed in Autodesk Inventor.\n - Detailed internal components.\n - Assembly/Disassembly animation.",
             "tags" : [
+                "3D Design",
                 "Inventor",
                 "3D Animation"
             ]
@@ -160,6 +190,7 @@
             "title": "Multipurpose Classroom Board",
             "bodyText": "- Multipurpose Classroom Board assembly designed in Autodesk Inventor.\n - Detailed internal components.\n - Dynamic Simulation.\n - Finite Element Analysis.",
             "tags" : [
+                "3D Design",
                 "Inventor",
                 "Simulation",
                 "FEA"
@@ -170,6 +201,7 @@
             "title": "50T Hydraulic Press",
             "bodyText": "- 50 Ton Hydraulic Press assembly designed in Autodesk AutoCAD.\n - Detailed internal components.",
             "tags" : [
+                "3D Design",
                 "AutoCAD"
             ]
         },
@@ -188,6 +220,7 @@
                 }
             ],
             "tags" : [
+                "Web Design",
                 "React"
             ]
         },
@@ -206,6 +239,7 @@
                 }
             ],
             "tags" : [
+                "Web Dev",
                 "Bootstrap",
                 "Nodejs",
                 "Express",
@@ -225,6 +259,7 @@
                 }
             ],
             "tags" : [
+                "Web Dev",
                 "Bootstrap",
                 "Nodejs",
                 "Express",

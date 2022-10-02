@@ -20,7 +20,7 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: '70px',
+    marginTop: '50px',
   },
   iconStyle: {
     marginLeft: 10,
